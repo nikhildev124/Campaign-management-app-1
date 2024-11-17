@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/mangalamraj/CRM.git  
+git clone https://github.com/nikhildev124/Campaign-management-app-1.git
 cd CRM  
 Install dependencies:
 For the client:
